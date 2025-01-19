@@ -11,7 +11,7 @@ function setup() {
     noStroke();
     ellipse(200, 200, 300, 300); // Main pizza base
   
-    // More Pepperoni 
+    //  Pepperoni 
     fill(200, 50, 50); // Red for pepperoni
     ellipse(100, 150, 40, 40);
     ellipse(100, 225, 40, 40);
@@ -28,7 +28,7 @@ function setup() {
      ellipse(235, 100, 40, 40);
        ellipse(215, 150, 40, 40);
   
-    // More Cheese Sprinkles
+    //  Cheese Sprinkles
     fill(255, 255, 153); // Pale yellow
     rect(180, 130, 10, 40);
     rect(220, 260, 10, 40);
