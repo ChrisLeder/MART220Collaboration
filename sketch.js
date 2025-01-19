@@ -11,7 +11,7 @@ function setup() {
     noStroke();
     ellipse(200, 200, 300, 300); // Main pizza base
   
-    // More Pepperoni (Manually Placed)
+    // More Pepperoni 
     fill(200, 50, 50); // Red for pepperoni
     ellipse(100, 150, 40, 40);
     ellipse(100, 225, 40, 40);
